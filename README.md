@@ -1,5 +1,5 @@
 # djsV13-handler
-A discord.js handler for starter!
+A discord.js handler for starter with javascript language!
 
 # Setup:
 [1] Use the command: `npm install` to install the package.  
