@@ -7,7 +7,6 @@ A discord.js handler for starter!
 [3] Replace your GUILD-ID in events > interaction.js.  
 [4] Use command: `node .` to run your bot and use the key combination `Ctrl + c` to stop the bot.  
 
-# Note:
-You can use `await bot.application.commands.set(slashCommands);` to register slash command for all guilds.
+`Note:` You can use `await bot.application.commands.set(slashCommands);` to register slash command for all guilds.
 
 
