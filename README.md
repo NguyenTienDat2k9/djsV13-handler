@@ -1,2 +1,5 @@
 # djsV13-handler
-A best discord.js handler for starter
+A discord.js handler for starter!
+
+# Setup:
+Put your bot Token in config.json file
